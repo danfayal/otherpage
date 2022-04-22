@@ -1,2 +1,2 @@
-# otherpage
-Only another page test
+# https://danfayal.github.io/otherpage
+
